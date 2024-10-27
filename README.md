@@ -8,76 +8,76 @@
 
 | 序号 | 原库名 | 原库基线版本 | 仓库名 | 状态 |
 | -------- | ---- | ---- | ---- | -------- |
-| 1 | [pigeon](https://pub.dev/packages/pigeon) | 14.0.0 | [pigeon](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/pigeon) | 已适配 |
-| 2 | [file_selector](https://pub.dev/packages/file_selector) | 1.0.1 | [file_selector](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/file_selector) | 已适配 |
-| 3 | [image_picker](https://pub.dev/packages/image_picker) | 1.0.4 | [image_picker](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/image_picker) | 已适配 |
-| 4 | [animations](https://pub.dev/packages/animations) | 2.0.8 | [animations](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/animations) | 已适配 |
-| 5 | [url_launcher](https://pub.dev/packages/url_launcher) | 6.1.11 | [url_launcher](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/url_launcher) | 已适配 |
-| 6 | [shared_preferences](https://pub.dev/packages/shared_preferences) | 2.2.2 | [shared_preferences](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/shared_preferences) | 已适配 |
-| 7 | [path_provider](https://pub.dev/packages/path_provider) | 2.1.1 | [path_provider](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/path_provider) | 已适配 |
-| 8 | [local_auth](https://pub.dev/packages/local_auth) | 2.1.6 | [local_auth](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/local_auth) | 已适配 |
-| 9 | [sqflite](https://pub.dev/packages/sqflite) | 2.2.8+4 | [flutter_sqflite](https://gitee.com/openharmony-sig/flutter_sqflite) | 已适配 |
-| 10 | [permission_handler](https://pub.dev/packages/permission_handler) | 11.3.1 | [flutter_permission_handler](https://gitee.com/openharmony-sig/flutter_permission_handler) | 已适配 |
-| 11 | [fluttertoast](https://pub.dev/packages/fluttertoast) | 8.2.8 | [flutter_fluttertoast](https://gitee.com/openharmony-sig/flutter_fluttertoast) | 已适配 |
-| 12 | [camera](https://pub.dev/packages/camera) | 0.10.5+5 | [camera](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/camera) | 已适配 |
-| 13 | [video_player](https://pub.dev/packages/video_player) | 2.7.2 | [video_player](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/video_player) | 已适配 |
-| 14 | [webview_flutter](https://pub.dev/packages/webview_flutter) | 4.4.2 | [webview_flutter](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/webview_flutter) | 已适配 |
-| 15 | [webview_flutter-v4.4.4](https://pub.dev/packages/webview_flutter) | 4.4.4 | [webview_flutter-v4.4.4](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/webview_flutter-v4.4.4) | 已适配 |
-| 16 | [connectivity_plus](https://pub.dev/packages/connectivity_plus) | 5.0.2 | [connectivity_plus](https://gitee.com/openharmony-sig/flutter_plus_plugins/tree/master/packages/connectivity_plus) | 已适配 |
-| 17 | [device_info_plus](https://pub.dev/packages/device_info_plus) | 9.1.2 | [device_info_plus](https://gitee.com/openharmony-sig/flutter_plus_plugins/tree/master/packages/device_info_plus) | 已适配 |
-| 18 | [package_info_plus](https://pub.dev/packages/package_info_plus) | 4.2.0 | [package_info_plus](https://gitee.com/openharmony-sig/flutter_plus_plugins/tree/master/packages/package_info_plus) | 已适配 |
-| 19 | [connectivity](https://pub.dev/packages/connectivity) | 3.0.6 | [connectivity](https://gitee.com/openharmony-sig/flutter_plus_plugins/tree/master/packages/connectivity) | 已适配 |
-| 20 | [package_info](https://pub.dev/packages/package_info) | 2.0.2 | [package_info_plus](https://gitee.com/openharmony-sig/flutter_plus_plugins/tree/master/packages/package_info_plus) | 已适配 |
-| 21 | [share_plus](https://pub.dev/packages/share_plus) | 7.2.2 | [share_plus](https://gitee.com/openharmony-sig/flutter_plus_plugins/tree/master/packages/share_plus) | 已适配 |
-| 22 | [audio_session](https://pub.dev/packages/audio_session) | 0.1.21 | [flutter_audio_session](https://gitee.com/openharmony-sig/flutter_audio_session) | 已适配 |
-| 23 | [flutter_native_image](https://pub.dev/packages/flutter_native_image) | 0.0.6+1 | [flutter_native_image](https://gitee.com/openharmony-sig/flutter_native_image) | 已适配 |
-| 24 | [flutter_sound](https://pub.dev/packages/flutter_sound) | 9.2.13 | [flutter_sound](https://gitee.com/openharmony-sig/flutter_sound/tree/master/flutter_sound) | 已适配 |
-| 25 | [image_gallery_saver](https://pub.dev/packages/image_gallery_saver) | 2.0.3 | [flutter_image_gallery_saver](https://gitee.com/openharmony-sig/flutter_image_gallery_saver) | 已适配 |
-| 26 | [location](https://pub.dev/packages/location) | 5.0.3 | [location](https://gitee.com/openharmony-sig/flutter_location/tree/master/packages/location) | 已适配 |
-| 27 | [power_image](https://pub.dev/packages/power_image) | 0.1.0-pre.2 | [flutter_power_image](https://gitee.com/openharmony-sig/flutter_power_image) | 已适配 |
-| 28 | [wakelock](https://pub.dev/packages/wakelock) | 0.6.2 | [wakelock](https://gitee.com/openharmony-sig/flutter_wakelock/tree/master/wakelock) | 已适配 |
-| 29 | [flutter_console](https://pub.dev/packages/flutter_console) | 0.0.4 | [flutter_console](https://gitee.com/openharmony-sig/flutter_console) | 已适配 |
-| 30 | [audioplayers](https://pub.dev/packages/audioplayers) | 4.1.0 | [flutter_audioplayers](https://gitee.com/openharmony-sig/flutter_audioplayers/tree/master/packages) | 已适配 |
-| 31 | [gpu_image](https://pub.dev/packages/gpu_image) | 1.0.0 | [flutter_gpu_image](https://gitee.com/openharmony-sig/flutter_gpu_image) | 已适配 |
-| 32 | [image_crop](https://pub.dev/packages/image_crop) | 0.4.1 | [flutter_image_crop](https://gitee.com/openharmony-sig/flutter_image_crop) | 已适配 |
-| 33 | [bitmap](https://pub.dev/packages/bitmap) | 0.1.3 | [flutter_bitmap](https://gitee.com/openharmony-sig/flutter_bitmap) | 已适配 |
-| 34 | [leak_detector](https://pub.dev/packages/leak_detector) | 1.1.0 | [flutter_leak_detector](https://gitee.com/openharmony-sig/flutter_leak_detector) | 已适配 |
-| 35 | [flutter_math_fork](https://pub.dev/packages/flutter_math_fork) | 0.6.3+1 | [flutter_math_fork](https://gitee.com/openharmony-sig/flutter_math_fork/tree/master/example) | 已适配 |
-| 36 | [flutter_contacts](https://pub.dev/packages/flutter_contacts) | 1.1.9+2 | [flutter_contacts](https://gitee.com/openharmony-sig/flutter_contacts/tree/master/example) | 已适配 |
-| 37 | [flutter_inappwebview](https://pub.dev/packages/flutter_inappwebview) | 6.0.0 | [flutter_inappwebview](https://gitee.com/openharmony-sig/flutter_inappwebview) | 已适配 |
-| 38 | [flutter_keyboard_visibility](https://pub.dev/packages/flutter_keyboard_visibility) | 6.0.0 | [flutter_keyboard_visibility](https://gitee.com/openharmony-sig/flutter_keyboard_visibility/tree/master/flutter_keyboard_visibility) | 已适配 |
-| 39 | [flutter_widget_from_html](https://pub.dev/packages/flutter_widget_from_html) | 0.14.11 | [flutter_widget_from_html](https://gitee.com/openharmony-sig/flutter_widget_from_html) | 已适配 |
-| 40 | [mobile_scanner](https://pub.dev/packages/mobile_scanner) | 3.5.7 | [fluttertpc_mobile_scanner](https://gitee.com/openharmony-sig/fluttertpc_mobile_scanner) | 已适配 |
-| 41 | [device_util](https://pub.dev/packages/device_util) | 1.0.7 | [fluttertpc_device_util](https://gitee.com/openharmony-sig/fluttertpc_device_util) | 已适配 |
-| 42 | [export_video_frame](https://pub.dev/packages/export_video_frame) | 0.0.7 | [fluttertpc_export_video_frame](https://gitee.com/openharmony-sig/fluttertpc_export_video_frame) | 已适配 |
-| 43 | [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) | 17.2.2 | [fluttertpc_flutter_local_notifications](https://gitee.com/openharmony-sig/fluttertpc_flutter_local_notifications) | 已适配 |
-| 44 | [flutter_phone_direct_caller](https://pub.dev/packages/flutter_phone_direct_caller) | 2.2.1 | [fluttertpc_flutter_phone_direct_caller](https://gitee.com/openharmony-sig/fluttertpc_flutter_phone_direct_caller) | 已适配 |
-| 45 | [flutter_screenshot_callback](https://pub.dev/packages/flutter_screenshot_callback) | 0.0.9 | [fluttertpc_screenshot_callback](https://gitee.com/openharmony-sig/fluttertpc_screenshot_callback) | 已适配 |
-| 46 | [flutter_sms](https://pub.dev/packages/flutter_sms) | 2.3.3 | [fluttertpc_flutter_sms](https://gitee.com/openharmony-sig/fluttertpc_flutter_sms) | 已适配 |
-| 47 | [media_info](https://pub.dev/packages/media_info) | 0.12.0+2 | [fluttertpc_media_info](https://gitee.com/openharmony-sig/fluttertpc_media_info) | 已适配 |
-| 48 | [orientation](https://pub.dev/packages/orientation) | 1.3.0 | [fluttertpc_orientation](https://gitee.com/openharmony-sig/fluttertpc_orientation) | 已适配 |
-| 49 | [recognition_qrcode](https://pub.dev/packages/recognition_qrcode) | 2.0.2 | [fluttertpc_recognition_qrcode](https://gitee.com/openharmony-sig/fluttertpc_recognition_qrcode) | 已适配 |
-| 50 | [video_compress](https://pub.dev/packages/video_compress) | 3.1.2 | [fluttertpc_video_compress](https://gitee.com/openharmony-sig/fluttertpc_video_compress) | 已适配 |
-| 51 | [share_extend](https://pub.dev/packages/share_extend) | 2.0.0 | [fluttertpc_share_extend](https://gitee.com/openharmony-sig/fluttertpc_share_extend) | 已适配 |
-| 52 | [catcher](https://pub.dev/packages/catcher) | 0.8.0 | [fluttertpc_catcher](https://gitee.com/openharmony-sig/fluttertpc_catcher) | 已适配 |
-| 53 | [flutter_mailer](https://pub.dev/packages/flutter_mailer) | 2.1.2 | [fluttertpc_flutter_mailer](https://gitee.com/openharmony-sig/fluttertpc_flutter_mailer) | 已适配 |
-| 54 | [gallery_saver](https://pub.dev/packages/gallery_saver) | 2.3.2 | [fluttertpc_gallery_saver](https://gitee.com/openharmony-sig/fluttertpc_gallery_saver) | 已适配 |
-| 55 | [flutter_localization](https://pub.dev/packages/flutter_localization) | 0.2.2 | [flutter_localization](https://gitee.com/openharmony-sig/flutter_localization) | 已适配 |
-| 56 | [keyboard_actions](https://pub.dev/packages/keyboard_actions) | 4.2.0 | [fluttertpc_keyboard_actions](https://gitee.com/openharmony-sig/fluttertpc_keyboard_actions) | 已适配 |
-| 57 | [native_device_orientation](https://pub.dev/packages/native_device_orientation) | 1.2.1 | [fluttertpc_native_device_orientation](https://gitee.com/openharmony-sig/fluttertpc_native_device_orientation) | 已适配 |
-| 58 | [screen](https://pub.dev/packages/screen) | 0.0.5 | [fluttertpc_screen](https://gitee.com/openharmony-sig/fluttertpc_screen) | 已适配 |
-| 59 | [pdf_render](https://pub.dev/packages/pdf_render) | 1.4.12 | [fluttertpc_pdf_render](https://gitee.com/openharmony-sig/fluttertpc_pdf_render) | 已适配 |
-| 60 | [pdf_viewer_plugin](https://pub.dev/packages/pdf_viewer_plugin) | 2.0.1 | [fluttertpc_pdf_viewer_plugin](https://gitee.com/openharmony-sig/fluttertpc_pdf_viewer_plugin/) | 已适配 |
-| 61 | [r_scan](https://pub.dev/packages/r_scan) | 0.1.6+1 | [fluttertpc_r_scan](https://gitee.com/openharmony-sig/fluttertpc_r_scan/) | 已适配 |
-| 62 | [r_upgrade](https://pub.dev/packages/r_upgrade) | 0.4.2 | [fluttertpc_r_upgrade](https://gitee.com/openharmony-sig/fluttertpc_r_upgrade/) | 已适配 |
-| 63 | [scan](https://pub.dev/packages/scan) | 1.6.0 | [fluttertpc_scan](https://gitee.com/openharmony-sig/fluttertpc_scan/) | 已适配 |
-| 64 | [open_app_settings](https://pub.dev/packages/open_app_settings) | 2.0.1 | [fluttertpc_open_app_settings](https://gitee.com/openharmony-sig/fluttertpc_open_app_settings/) | 已适配 |
-| 65 | [audio_service](https://pub.dev/packages/audio_service) | 0.18.15 | [fluttertpc_audio_service](https://gitee.com/openharmony-sig/fluttertpc_audio_service/) | 已适配 |
-| 66 | [open_filex](https://pub.dev/packages/open_filex) | 4.5.0 | [fluttertpc_open_filex](https://gitee.com/openharmony-sig/fluttertpc_open_filex/) | 已适配 |
-| 67 | [auto_orientation](https://pub.dev/packages/auto_orientation) | 2.3.1 | [fluttertpc_auto_orientation](https://gitee.com/openharmony-sig/fluttertpc_auto_orientation/) | 已适配 |
-| 68 | [tobias](https://pub.dev/packages/tobias) | 4.0.0 | [fluttertpc_tobias](https://gitee.com/openharmony-sig/fluttertpc_tobias/) | 已适配 |
-| 69 | [in_app_purchase](https://pub.dev/packages/in_app_purchase) | 3.1.11 | [in_app_purchase](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/in_app_purchase) | 开发中 |
-| 70 | [quick_actions](https://pub.dev/packages/quick_actions) | 1.0.6 | [quick_actions](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/quick_actions) | 开发中 |
+| 1 | [pigeon](https://pub.dev/packages/pigeon) | 14.0.0 | [pigeon](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/pigeon) | 已适配 |
+| 2 | [file_selector](https://pub.dev/packages/file_selector) | 1.0.1 | [file_selector](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/file_selector) | 已适配 |
+| 3 | [image_picker](https://pub.dev/packages/image_picker) | 1.0.4 | [image_picker](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/image_picker) | 已适配 |
+| 4 | [animations](https://pub.dev/packages/animations) | 2.0.8 | [animations](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/animations) | 已适配 |
+| 5 | [url_launcher](https://pub.dev/packages/url_launcher) | 6.1.11 | [url_launcher](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/url_launcher) | 已适配 |
+| 6 | [shared_preferences](https://pub.dev/packages/shared_preferences) | 2.2.2 | [shared_preferences](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/shared_preferences) | 已适配 |
+| 7 | [path_provider](https://pub.dev/packages/path_provider) | 2.1.1 | [path_provider](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/path_provider) | 已适配 |
+| 8 | [local_auth](https://pub.dev/packages/local_auth) | 2.1.6 | [local_auth](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/local_auth) | 已适配 |
+| 9 | [sqflite](https://pub.dev/packages/sqflite) | 2.2.8+4 | [flutter_sqflite](https://github.com/openharmony-sig/flutter_sqflite) | 已适配 |
+| 10 | [permission_handler](https://pub.dev/packages/permission_handler) | 11.3.1 | [flutter_permission_handler](https://github.com/openharmony-sig/flutter_permission_handler) | 已适配 |
+| 11 | [fluttertoast](https://pub.dev/packages/fluttertoast) | 8.2.8 | [flutter_fluttertoast](https://github.com/openharmony-sig/flutter_fluttertoast) | 已适配 |
+| 12 | [camera](https://pub.dev/packages/camera) | 0.10.5+5 | [camera](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/camera) | 已适配 |
+| 13 | [video_player](https://pub.dev/packages/video_player) | 2.7.2 | [video_player](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/video_player) | 已适配 |
+| 14 | [webview_flutter](https://pub.dev/packages/webview_flutter) | 4.4.2 | [webview_flutter](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/webview_flutter) | 已适配 |
+| 15 | [webview_flutter-v4.4.4](https://pub.dev/packages/webview_flutter) | 4.4.4 | [webview_flutter-v4.4.4](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/webview_flutter-v4.4.4) | 已适配 |
+| 16 | [connectivity_plus](https://pub.dev/packages/connectivity_plus) | 5.0.2 | [connectivity_plus](https://github.com/openharmony-sig/flutter_plus_plugins/tree/master/packages/connectivity_plus) | 已适配 |
+| 17 | [device_info_plus](https://pub.dev/packages/device_info_plus) | 9.1.2 | [device_info_plus](https://github.com/openharmony-sig/flutter_plus_plugins/tree/master/packages/device_info_plus) | 已适配 |
+| 18 | [package_info_plus](https://pub.dev/packages/package_info_plus) | 4.2.0 | [package_info_plus](https://github.com/openharmony-sig/flutter_plus_plugins/tree/master/packages/package_info_plus) | 已适配 |
+| 19 | [connectivity](https://pub.dev/packages/connectivity) | 3.0.6 | [connectivity](https://github.com/openharmony-sig/flutter_plus_plugins/tree/master/packages/connectivity) | 已适配 |
+| 20 | [package_info](https://pub.dev/packages/package_info) | 2.0.2 | [package_info_plus](https://github.com/openharmony-sig/flutter_plus_plugins/tree/master/packages/package_info_plus) | 已适配 |
+| 21 | [share_plus](https://pub.dev/packages/share_plus) | 7.2.2 | [share_plus](https://github.com/openharmony-sig/flutter_plus_plugins/tree/master/packages/share_plus) | 已适配 |
+| 22 | [audio_session](https://pub.dev/packages/audio_session) | 0.1.21 | [flutter_audio_session](https://github.com/openharmony-sig/flutter_audio_session) | 已适配 |
+| 23 | [flutter_native_image](https://pub.dev/packages/flutter_native_image) | 0.0.6+1 | [flutter_native_image](https://github.com/openharmony-sig/flutter_native_image) | 已适配 |
+| 24 | [flutter_sound](https://pub.dev/packages/flutter_sound) | 9.2.13 | [flutter_sound](https://github.com/openharmony-sig/flutter_sound/tree/master/flutter_sound) | 已适配 |
+| 25 | [image_gallery_saver](https://pub.dev/packages/image_gallery_saver) | 2.0.3 | [flutter_image_gallery_saver](https://github.com/openharmony-sig/flutter_image_gallery_saver) | 已适配 |
+| 26 | [location](https://pub.dev/packages/location) | 5.0.3 | [location](https://github.com/openharmony-sig/flutter_location/tree/master/packages/location) | 已适配 |
+| 27 | [power_image](https://pub.dev/packages/power_image) | 0.1.0-pre.2 | [flutter_power_image](https://github.com/openharmony-sig/flutter_power_image) | 已适配 |
+| 28 | [wakelock](https://pub.dev/packages/wakelock) | 0.6.2 | [wakelock](https://github.com/openharmony-sig/flutter_wakelock/tree/master/wakelock) | 已适配 |
+| 29 | [flutter_console](https://pub.dev/packages/flutter_console) | 0.0.4 | [flutter_console](https://github.com/openharmony-sig/flutter_console) | 已适配 |
+| 30 | [audioplayers](https://pub.dev/packages/audioplayers) | 4.1.0 | [flutter_audioplayers](https://github.com/openharmony-sig/flutter_audioplayers/tree/master/packages) | 已适配 |
+| 31 | [gpu_image](https://pub.dev/packages/gpu_image) | 1.0.0 | [flutter_gpu_image](https://github.com/openharmony-sig/flutter_gpu_image) | 已适配 |
+| 32 | [image_crop](https://pub.dev/packages/image_crop) | 0.4.1 | [flutter_image_crop](https://github.com/openharmony-sig/flutter_image_crop) | 已适配 |
+| 33 | [bitmap](https://pub.dev/packages/bitmap) | 0.1.3 | [flutter_bitmap](https://github.com/openharmony-sig/flutter_bitmap) | 已适配 |
+| 34 | [leak_detector](https://pub.dev/packages/leak_detector) | 1.1.0 | [flutter_leak_detector](https://github.com/openharmony-sig/flutter_leak_detector) | 已适配 |
+| 35 | [flutter_math_fork](https://pub.dev/packages/flutter_math_fork) | 0.6.3+1 | [flutter_math_fork](https://github.com/openharmony-sig/flutter_math_fork/tree/master/example) | 已适配 |
+| 36 | [flutter_contacts](https://pub.dev/packages/flutter_contacts) | 1.1.9+2 | [flutter_contacts](https://github.com/openharmony-sig/flutter_contacts/tree/master/example) | 已适配 |
+| 37 | [flutter_inappwebview](https://pub.dev/packages/flutter_inappwebview) | 6.0.0 | [flutter_inappwebview](https://github.com/openharmony-sig/flutter_inappwebview) | 已适配 |
+| 38 | [flutter_keyboard_visibility](https://pub.dev/packages/flutter_keyboard_visibility) | 6.0.0 | [flutter_keyboard_visibility](https://github.com/openharmony-sig/flutter_keyboard_visibility/tree/master/flutter_keyboard_visibility) | 已适配 |
+| 39 | [flutter_widget_from_html](https://pub.dev/packages/flutter_widget_from_html) | 0.14.11 | [flutter_widget_from_html](https://github.com/openharmony-sig/flutter_widget_from_html) | 已适配 |
+| 40 | [mobile_scanner](https://pub.dev/packages/mobile_scanner) | 3.5.7 | [fluttertpc_mobile_scanner](https://github.com/openharmony-sig/fluttertpc_mobile_scanner) | 已适配 |
+| 41 | [device_util](https://pub.dev/packages/device_util) | 1.0.7 | [fluttertpc_device_util](https://github.com/openharmony-sig/fluttertpc_device_util) | 已适配 |
+| 42 | [export_video_frame](https://pub.dev/packages/export_video_frame) | 0.0.7 | [fluttertpc_export_video_frame](https://github.com/openharmony-sig/fluttertpc_export_video_frame) | 已适配 |
+| 43 | [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) | 17.2.2 | [fluttertpc_flutter_local_notifications](https://github.com/openharmony-sig/fluttertpc_flutter_local_notifications) | 已适配 |
+| 44 | [flutter_phone_direct_caller](https://pub.dev/packages/flutter_phone_direct_caller) | 2.2.1 | [fluttertpc_flutter_phone_direct_caller](https://github.com/openharmony-sig/fluttertpc_flutter_phone_direct_caller) | 已适配 |
+| 45 | [flutter_screenshot_callback](https://pub.dev/packages/flutter_screenshot_callback) | 0.0.9 | [fluttertpc_screenshot_callback](https://github.com/openharmony-sig/fluttertpc_screenshot_callback) | 已适配 |
+| 46 | [flutter_sms](https://pub.dev/packages/flutter_sms) | 2.3.3 | [fluttertpc_flutter_sms](https://github.com/openharmony-sig/fluttertpc_flutter_sms) | 已适配 |
+| 47 | [media_info](https://pub.dev/packages/media_info) | 0.12.0+2 | [fluttertpc_media_info](https://github.com/openharmony-sig/fluttertpc_media_info) | 已适配 |
+| 48 | [orientation](https://pub.dev/packages/orientation) | 1.3.0 | [fluttertpc_orientation](https://github.com/openharmony-sig/fluttertpc_orientation) | 已适配 |
+| 49 | [recognition_qrcode](https://pub.dev/packages/recognition_qrcode) | 2.0.2 | [fluttertpc_recognition_qrcode](https://github.com/openharmony-sig/fluttertpc_recognition_qrcode) | 已适配 |
+| 50 | [video_compress](https://pub.dev/packages/video_compress) | 3.1.2 | [fluttertpc_video_compress](https://github.com/openharmony-sig/fluttertpc_video_compress) | 已适配 |
+| 51 | [share_extend](https://pub.dev/packages/share_extend) | 2.0.0 | [fluttertpc_share_extend](https://github.com/openharmony-sig/fluttertpc_share_extend) | 已适配 |
+| 52 | [catcher](https://pub.dev/packages/catcher) | 0.8.0 | [fluttertpc_catcher](https://github.com/openharmony-sig/fluttertpc_catcher) | 已适配 |
+| 53 | [flutter_mailer](https://pub.dev/packages/flutter_mailer) | 2.1.2 | [fluttertpc_flutter_mailer](https://github.com/openharmony-sig/fluttertpc_flutter_mailer) | 已适配 |
+| 54 | [gallery_saver](https://pub.dev/packages/gallery_saver) | 2.3.2 | [fluttertpc_gallery_saver](https://github.com/openharmony-sig/fluttertpc_gallery_saver) | 已适配 |
+| 55 | [flutter_localization](https://pub.dev/packages/flutter_localization) | 0.2.2 | [flutter_localization](https://github.com/openharmony-sig/flutter_localization) | 已适配 |
+| 56 | [keyboard_actions](https://pub.dev/packages/keyboard_actions) | 4.2.0 | [fluttertpc_keyboard_actions](https://github.com/openharmony-sig/fluttertpc_keyboard_actions) | 已适配 |
+| 57 | [native_device_orientation](https://pub.dev/packages/native_device_orientation) | 1.2.1 | [fluttertpc_native_device_orientation](https://github.com/openharmony-sig/fluttertpc_native_device_orientation) | 已适配 |
+| 58 | [screen](https://pub.dev/packages/screen) | 0.0.5 | [fluttertpc_screen](https://github.com/openharmony-sig/fluttertpc_screen) | 已适配 |
+| 59 | [pdf_render](https://pub.dev/packages/pdf_render) | 1.4.12 | [fluttertpc_pdf_render](https://github.com/openharmony-sig/fluttertpc_pdf_render) | 已适配 |
+| 60 | [pdf_viewer_plugin](https://pub.dev/packages/pdf_viewer_plugin) | 2.0.1 | [fluttertpc_pdf_viewer_plugin](https://github.com/openharmony-sig/fluttertpc_pdf_viewer_plugin/) | 已适配 |
+| 61 | [r_scan](https://pub.dev/packages/r_scan) | 0.1.6+1 | [fluttertpc_r_scan](https://github.com/openharmony-sig/fluttertpc_r_scan/) | 已适配 |
+| 62 | [r_upgrade](https://pub.dev/packages/r_upgrade) | 0.4.2 | [fluttertpc_r_upgrade](https://github.com/openharmony-sig/fluttertpc_r_upgrade/) | 已适配 |
+| 63 | [scan](https://pub.dev/packages/scan) | 1.6.0 | [fluttertpc_scan](https://github.com/openharmony-sig/fluttertpc_scan/) | 已适配 |
+| 64 | [open_app_settings](https://pub.dev/packages/open_app_settings) | 2.0.1 | [fluttertpc_open_app_settings](https://github.com/openharmony-sig/fluttertpc_open_app_settings/) | 已适配 |
+| 65 | [audio_service](https://pub.dev/packages/audio_service) | 0.18.15 | [fluttertpc_audio_service](https://github.com/openharmony-sig/fluttertpc_audio_service/) | 已适配 |
+| 66 | [open_filex](https://pub.dev/packages/open_filex) | 4.5.0 | [fluttertpc_open_filex](https://github.com/openharmony-sig/fluttertpc_open_filex/) | 已适配 |
+| 67 | [auto_orientation](https://pub.dev/packages/auto_orientation) | 2.3.1 | [fluttertpc_auto_orientation](https://github.com/openharmony-sig/fluttertpc_auto_orientation/) | 已适配 |
+| 68 | [tobias](https://pub.dev/packages/tobias) | 4.0.0 | [fluttertpc_tobias](https://github.com/openharmony-sig/fluttertpc_tobias/) | 已适配 |
+| 69 | [in_app_purchase](https://pub.dev/packages/in_app_purchase) | 3.1.11 | [in_app_purchase](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/in_app_purchase) | 开发中 |
+| 70 | [quick_actions](https://pub.dev/packages/quick_actions) | 1.0.6 | [quick_actions](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/quick_actions) | 开发中 |
 | 71 | [dart_native](https://pub.dev/packages/dart_native) | 0.7.11 | - | 开发中 |
 | 72 | [media_kit_video](https://pub.dev/packages/media_kit_video) | 1.2.5 | - | 开发中 |
 | 73 | [flutter_filereader](https://pub.dev/packages/flutter_filereader) | 3.0.0 | - | 开发中 |
@@ -139,32 +139,32 @@
 | 129 | [pdfx](https://pub.dev/packages/pdfx) | 2.3.0 | - | 开发中 |
 | 130 | [connectivity_for_web](https://pub.dev/packages/connectivity_for_web) | 0.4.0+1 | - | 未适配 |
 | 131 | [connectivity_macos](https://pub.dev/packages/connectivity_macos) | 0.2.1+2 | - | 未适配 |
-| 132 | [css_colors](https://pub.dev/packages/css_colors) | 1.1.3 | [css_colors](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/css_colors) | 未适配 |
-| 133 | [espresso](https://pub.dev/packages/espresso) | 0.3.0+6 | [espresso](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/espresso) | 未适配 |
-| 134 | [extension_google_sign_  in_as_googleapis_auth](https://pub.dev/packages/extension_google_sign_in_as_googleapis_auth) | 2.0.11 | [extension_google_sign_  in_as_googleapis_auth](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/extension_google_sign_in_as_googleapis_auth) | 未适配 |
-| 135 | [flutter_adaptive_scaffold](https://pub.dev/packages/flutter_adaptive_scaffold) | 0.1.4 | [flutter_adaptive_scaffold](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_adaptive_scaffold) | 未适配 |
-| 136 | [flutter_image](https://pub.dev/packages/flutter_image) | 4.1.9 | [flutter_image](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_image) | 未适配 |
-| 137 | [flutter_lints](https://pub.dev/packages/flutter_lints) | 2.0.3 | [flutter_lints](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_lints) | 未适配 |
-| 138 | [flutter_markdown](https://pub.dev/packages/flutter_markdown) | 0.6.15 | [flutter_markdown](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_markdown) | 未适配 |
-| 139 | [flutter_migrate](https://pub.dev/packages/flutter_migrate) | 0.1.0 | [flutter_migrate](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_migrate) | 未适配 |
-| 140 | [flutter_plugin_android_lifecycle](https://pub.dev/packages/flutter_plugin_android_lifecycle) | 2.0.17 | [flutter_plugin_android_lifecycle](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_plugin_android_lifecycle) | 未适配 |
-| 141 | [flutter_template_images](https://pub.dev/packages/flutter_template_images) | 4.2.1 | [flutter_template_images](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_template_images) | 未适配 |
-| 142 | [go_router](https://pub.dev/packages/go_router) | 12.1.1 | [go_router](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/go_router) | 未适配 |
-| 143 | [go_router_builder](https://pub.dev/packages/go_router_builder) | 2.3.4 | [go_router_builder](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/go_router_builder) | 未适配 |
-| 144 | [google_identity_services_web](https://pub.dev/packages/google_identity_services_web) | 0.2.2 | [google_identity_services_web](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/google_identity_services_web) | 未适配 |
-| 145 | [google_maps_flutter](https://pub.dev/packages/google_maps_flutter) | 2.3.0 | [google_maps_flutter](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/google_maps_flutter) | 未适配 |
-| 146 | [google_sign_in](https://pub.dev/packages/google_sign_in) | 6.1.6 | [google_sign_in](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/google_sign_in) | 未适配 |
-| 147 | [ios_platform_images](https://pub.dev/packages/ios_platform_images) | 0.2.3 | [ios_platform_images](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/ios_platform_images) | 未适配 |
-| 148 | [metrics_center](https://pub.dev/packages/metrics_center) | 1.0.12 | [metrics_center](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/metrics_center) | 未适配 |
-| 149 | [multicast_dns](https://pub.dev/packages/multicast_dns) | 0.3.2+4 | [multicast_dns](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/multicast_dns) | 未适配 |
-| 150 | [palette_generator](https://pub.dev/packages/palette_generator) | 0.3.3+3 | [palette_generator](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/palette_generator) | 未适配 |
-| 151 | [pointer_interceptor](https://pub.dev/packages/pointer_interceptor) | 0.9.3+5 | [pointer_interceptor](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/pointer_interceptor) | 未适配 |
-| 152 | [rfw](https://pub.dev/packages/rfw) | 1.0.9 | [rfw](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/rfw) | 未适配 |
-| 153 | [standard_message_codec](https://pub.dev/packages/standard_message_codec) | 0.0.1+4 | [standard_message_codec](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/standard_message_codec) | 未适配 |
-| 154 | [two_dimensional_scrollables](https://pub.dev/packages/two_dimensional_scrollables) | - | [two_dimensional_scrollables](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/two_dimensional_scrollables) | 未适配 |
-| 155 | [web_benchmarks](https://pub.dev/packages/web_benchmarks) | 0.1.0+8 | [web_benchmarks](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/web_benchmarks) | 未适配 |
-| 156 | [webview_flutter_platform_interface](https://pub.dev/packages/webview_flutter_platform_interface) | 2.6.0 | [webview_flutter_platform_interface](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/webview_flutter_platform_interface-v2.10.0) | 未适配 |
-| 157 | [xdg_directories](https://pub.dev/packages/xdg_directories) | 1.0.3 | [xdg_directories](https://gitee.com/openharmony-sig/flutter_packages/tree/master/packages/xdg_directories) | 未适配 |
+| 132 | [css_colors](https://pub.dev/packages/css_colors) | 1.1.3 | [css_colors](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/css_colors) | 未适配 |
+| 133 | [espresso](https://pub.dev/packages/espresso) | 0.3.0+6 | [espresso](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/espresso) | 未适配 |
+| 134 | [extension_google_sign_  in_as_googleapis_auth](https://pub.dev/packages/extension_google_sign_in_as_googleapis_auth) | 2.0.11 | [extension_google_sign_  in_as_googleapis_auth](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/extension_google_sign_in_as_googleapis_auth) | 未适配 |
+| 135 | [flutter_adaptive_scaffold](https://pub.dev/packages/flutter_adaptive_scaffold) | 0.1.4 | [flutter_adaptive_scaffold](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_adaptive_scaffold) | 未适配 |
+| 136 | [flutter_image](https://pub.dev/packages/flutter_image) | 4.1.9 | [flutter_image](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_image) | 未适配 |
+| 137 | [flutter_lints](https://pub.dev/packages/flutter_lints) | 2.0.3 | [flutter_lints](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_lints) | 未适配 |
+| 138 | [flutter_markdown](https://pub.dev/packages/flutter_markdown) | 0.6.15 | [flutter_markdown](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_markdown) | 未适配 |
+| 139 | [flutter_migrate](https://pub.dev/packages/flutter_migrate) | 0.1.0 | [flutter_migrate](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_migrate) | 未适配 |
+| 140 | [flutter_plugin_android_lifecycle](https://pub.dev/packages/flutter_plugin_android_lifecycle) | 2.0.17 | [flutter_plugin_android_lifecycle](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_plugin_android_lifecycle) | 未适配 |
+| 141 | [flutter_template_images](https://pub.dev/packages/flutter_template_images) | 4.2.1 | [flutter_template_images](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/flutter_template_images) | 未适配 |
+| 142 | [go_router](https://pub.dev/packages/go_router) | 12.1.1 | [go_router](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/go_router) | 未适配 |
+| 143 | [go_router_builder](https://pub.dev/packages/go_router_builder) | 2.3.4 | [go_router_builder](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/go_router_builder) | 未适配 |
+| 144 | [google_identity_services_web](https://pub.dev/packages/google_identity_services_web) | 0.2.2 | [google_identity_services_web](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/google_identity_services_web) | 未适配 |
+| 145 | [google_maps_flutter](https://pub.dev/packages/google_maps_flutter) | 2.3.0 | [google_maps_flutter](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/google_maps_flutter) | 未适配 |
+| 146 | [google_sign_in](https://pub.dev/packages/google_sign_in) | 6.1.6 | [google_sign_in](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/google_sign_in) | 未适配 |
+| 147 | [ios_platform_images](https://pub.dev/packages/ios_platform_images) | 0.2.3 | [ios_platform_images](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/ios_platform_images) | 未适配 |
+| 148 | [metrics_center](https://pub.dev/packages/metrics_center) | 1.0.12 | [metrics_center](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/metrics_center) | 未适配 |
+| 149 | [multicast_dns](https://pub.dev/packages/multicast_dns) | 0.3.2+4 | [multicast_dns](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/multicast_dns) | 未适配 |
+| 150 | [palette_generator](https://pub.dev/packages/palette_generator) | 0.3.3+3 | [palette_generator](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/palette_generator) | 未适配 |
+| 151 | [pointer_interceptor](https://pub.dev/packages/pointer_interceptor) | 0.9.3+5 | [pointer_interceptor](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/pointer_interceptor) | 未适配 |
+| 152 | [rfw](https://pub.dev/packages/rfw) | 1.0.9 | [rfw](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/rfw) | 未适配 |
+| 153 | [standard_message_codec](https://pub.dev/packages/standard_message_codec) | 0.0.1+4 | [standard_message_codec](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/standard_message_codec) | 未适配 |
+| 154 | [two_dimensional_scrollables](https://pub.dev/packages/two_dimensional_scrollables) | - | [two_dimensional_scrollables](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/two_dimensional_scrollables) | 未适配 |
+| 155 | [web_benchmarks](https://pub.dev/packages/web_benchmarks) | 0.1.0+8 | [web_benchmarks](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/web_benchmarks) | 未适配 |
+| 156 | [webview_flutter_platform_interface](https://pub.dev/packages/webview_flutter_platform_interface) | 2.6.0 | [webview_flutter_platform_interface](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/webview_flutter_platform_interface-v2.10.0) | 未适配 |
+| 157 | [xdg_directories](https://pub.dev/packages/xdg_directories) | 1.0.3 | [xdg_directories](https://github.com/openharmony-sig/flutter_packages/tree/master/packages/xdg_directories) | 未适配 |
 | 158 | [stack_trace](https://pub.dev/packages/stack_trace) | 1.11.1 | - | <span style="white-space: nowrap;">无需适配 </span> |
 | 159 | [vector_math](https://pub.dev/packages/vector_math) | 2.1.4 | - | 无需适配 |
 | 160 | [collection](https://pub.dev/packages/collection) | 1.18.0 | - | 无需适配 |
@@ -245,7 +245,7 @@
 dev_dependencies:
   pigeon:
     git:
-      url: "https://gitee.com/openharmony-sig/flutter_packages.git"
+      url: "https://github.com/openharmony-sig/flutter_packages.git"
       path: "packages/pigeon"
  ```
 2. 项目根目录运行`flutter pub get`；
@@ -264,7 +264,7 @@ dev_dependencies:
 dependencies:
   path_provider:
     git:
-      url: "https://gitee.com/openharmony-sig/flutter_packages.git"
+      url: "https://github.com/openharmony-sig/flutter_packages.git"
       path: "packages/path_provider/path_provider"
 ```
 
@@ -274,7 +274,7 @@ dependencies:
 
 示例：在某个Flutter兼容OpenHarmony项目中加入支持OpenHarmony平台的path_provider库依赖；
 
-可参考示例：https://gitee.com/openharmony-sig/flutter_samples/tree/master/ohos/pictures_provider_demo
+可参考示例：https://github.com/openharmony-sig/flutter_samples/tree/master/ohos/pictures_provider_demo
 
 ## FAQ
 
